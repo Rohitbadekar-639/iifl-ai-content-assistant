@@ -91,7 +91,7 @@ iifl-ai-content-assistant/
 │       ├── types/entry.ts
 │       └── components/
 ├── docs/
-│   └── working-flow.png
+│   └── photo.png
 ├── .env.example
 └── README.md
 ```
