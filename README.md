@@ -66,7 +66,7 @@ Built with **Cursor** (and ChatGPT for clarifying assignment wording where usefu
 
 ## Screenshot
 
-![Working flow](docs/working-flow.png)
+![Working flow](docs/photo.png)
 
 ## Project structure
 
