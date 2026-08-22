@@ -1,6 +1,7 @@
 # AI Content Assistant
 
-Small full-stack + applied AI assessment for IIFL Finance Round 1: paste text, get an AI summary and exactly 3 tags, persist to SQLite.
+Assessment submission for IIFL Finance Round 1. This project focuses on a small, reliable end-to-end AI workflow rather than production-scale infrastructure.
+Small full-stack + applied AI assessment: paste the text, get an AI summary and exactly 3 tags, persist to SQLite.
 
 ## Stack
 
